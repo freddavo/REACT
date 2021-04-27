@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  min-height: 100000 vh;
+  background-color: rgb(93, 91, 91);
+  color: white;
+}
+
+
+.nav-links{
+  width: 50%;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+
+}
+
+
+footer{
+  
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    min-height: 100000 vh;
+    background-color: rgb(93, 91, 91);
+    color: white;
+  
+}
+
+.bg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
